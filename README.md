@@ -22,15 +22,10 @@ Currently focused on:
 
 ---
 
-## 🧩 Philosophy
-> “Free time is either wasted or invested — I’m trying to invest.”
-
----
-
 ## 🚀 Goals
 - Build meaningful projects  
 - Learn deeply, not just quickly  
-- Become employable **before** graduation 😅
+- Maybe become employable **before** graduation 😅
 
 ---
 
