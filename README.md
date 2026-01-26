@@ -6,7 +6,7 @@
 ---
 
 ## 👋 About Me
-I'm a **university engineering student** with some free time on my hands, trying to make the **best possible use of it**.  
+I'm a 🇲🇦 moroccan **university engineering student** with some free time on my hands, trying to make the **best possible use of it**.  
 Currently focused on:
 - 🧠 Learning by building
 - 💻 Writing code & breaking it (then hopefuly fixing it)
