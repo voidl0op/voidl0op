@@ -20,11 +20,10 @@ Currently focused on:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=voidl0op&show_icons=true&theme=gruvbox" alt="Voidl0op's GitHub stats" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Voidl0op&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Voidl0op&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Voidl0op&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
