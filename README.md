@@ -11,10 +11,6 @@ Currently focused on:
 - 🧠 Learning by building
 - 💻 Writing code & breaking it (then hopefuly fixing it)
 - 📈 Improving a little every day
-
-## 🧰 Skills
-[![My Skills](https://skillicons.dev/icons?i=py,c,html,css&theme=dark)](https://skillicons.dev)
-
 <br />
 
 
