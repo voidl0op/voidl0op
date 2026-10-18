@@ -3,7 +3,6 @@
 # 🌌 Voidl0op
 
 > **Unemployed Engineering Student**  
-> Turning free time into skills, one loop at a time 🔁
 
 </div>
 
@@ -31,12 +30,6 @@ Currently focused on:
 
 </div>
 
----
-
-## 🚀 Goals
-- Build meaningful projects  
-- Learn deeply, not just quickly  
-- Maybe become employable **before** graduation 😅
 
 ---
 
